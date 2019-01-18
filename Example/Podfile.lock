@@ -1,0 +1,16 @@
+PODS:
+  - facebookZoomableImageView (0.1.0)
+
+DEPENDENCIES:
+  - facebookZoomableImageView (from `../`)
+
+EXTERNAL SOURCES:
+  facebookZoomableImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  facebookZoomableImageView: 398b97693f24ff5ca1c294e517fcff88e94e1768
+
+PODFILE CHECKSUM: 14c253399399918da9904bd0eebaefe22e37c90f
+
+COCOAPODS: 1.5.3

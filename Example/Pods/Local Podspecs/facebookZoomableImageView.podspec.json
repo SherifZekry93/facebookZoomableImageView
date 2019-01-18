@@ -1,0 +1,22 @@
+{
+  "name": "facebookZoomableImageView",
+  "version": "0.1.0",
+  "summary": "A short description of facebookZoomableImageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/prosherifzekr/facebookZoomableImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "prosherifzekr": "prosherifzekry@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/prosherifzekr/facebookZoomableImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "facebookZoomableImageView/Classes/**/*"
+}

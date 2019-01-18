@@ -1,0 +1,6 @@
+framework module facebookZoomableImageView {
+  umbrella header "facebookZoomableImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
