@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'facebookZoomableImageView_Example' do
+  pod 'facebookZoomableImageView', :path => '../'
+
+  target 'facebookZoomableImageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
