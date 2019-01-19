@@ -48,7 +48,7 @@
 		81B582E5D4B2BB569C7ECBA9 /* Pods_facebookZoomableImageView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_facebookZoomableImageView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DF2B6BF9CD9E72BFD697CC0 /* Pods-facebookZoomableImageView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-facebookZoomableImageView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-facebookZoomableImageView_Example/Pods-facebookZoomableImageView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A605BAF4BA6F6137B9E03B8B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		ED1F3253DFDAC4BD6112529E /* facebookZoomableImageView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = facebookZoomableImageView.podspec; path = ../facebookZoomableImageView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		ED1F3253DFDAC4BD6112529E /* FacebookZoomableImageView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FacebookZoomableImageView.podspec; path = ../FacebookZoomableImageView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,7 +135,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				ED1F3253DFDAC4BD6112529E /* facebookZoomableImageView.podspec */,
+				ED1F3253DFDAC4BD6112529E /* FacebookZoomableImageView.podspec */,
 				16F31AC39268A8ED61626C52 /* README.md */,
 				A605BAF4BA6F6137B9E03B8B /* LICENSE */,
 			);
@@ -226,7 +226,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "facebookZoomableImageView" */;
+			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "FacebookZoomableImageView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -522,7 +522,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/facebookZoomableImageView_Example.app/facebookZoomableImageView_Example";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FacebookZoomableImageView.temp_caseinsensitive_rename_Example.app/FacebookZoomableImageView.temp_caseinsensitive_rename_Example";
 			};
 			name = Debug;
 		};
@@ -540,14 +540,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/facebookZoomableImageView_Example.app/facebookZoomableImageView_Example";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FacebookZoomableImageView.temp_caseinsensitive_rename_Example.app/FacebookZoomableImageView.temp_caseinsensitive_rename_Example";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "facebookZoomableImageView" */ = {
+		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "FacebookZoomableImageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACED1AFB9204008FA782 /* Debug */,

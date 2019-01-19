@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'facebookZoomableImageView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A class that allows you to zoom into any image similar to facebook zoom'
 
 # This description is used to generate tags and improve search results.
@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
   This pod is magnificent for any image that you want to zoom into all you need to do is just to tap the image and it will zoom in tap again and it will zoom out
   DESC
 
-  s.homepage         = 'https://github.com/prosherifzekr/facebookZoomableImageView'
+  s.homepage         = 'https://github.com/prosherifzekr/FacebookZoomableImageView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'prosherifzekr' => 'prosherifzekry@gmail.com' }
-  s.source           = { :git => 'https://github.com/prosherifzekr/facebookZoomableImageView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/prosherifzekr/FacebookZoomableImageView.git', :tag => s.version.to_s }
    s.social_media_url = 'https://twitter.com/SherifZekry93'
 
-  s.ios.deployment_target = '9.30'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'facebookZoomableImageView/Classes/**/*'
+  s.source_files = 'facebookZoomableImageView/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'facebookZoomableImageView' => ['facebookZoomableImageView/Assets/*.png']
